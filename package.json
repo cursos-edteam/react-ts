@@ -1,5 +1,6 @@
 {
   "name": "app-movie",
+  "homepage": "https://cursos-edteam.github.io/react-ts/",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",

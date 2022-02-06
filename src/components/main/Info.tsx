@@ -21,7 +21,7 @@ const Info = () => {
       </section>
       <section className='details-info'>
         <section className='list-info'>
-          <div>2020</div>
+          <div>2021</div>
           <div>Fantastic</div>
           <div>2h 35min</div>
         </section>
